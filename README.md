@@ -42,15 +42,15 @@ The dataset, available in CSV format, is tidy, free of null values, and has a un
 The dashboard caters to various stakeholders in the pizza industry, including marketing teams, product development teams, customer service teams, stakeholders, pizza restaurant owners and managers, pizza franchisees, pizza delivery companies, pizza ingredient suppliers, and investors.
 
 ## Users and Use Cases
-- Marketing Teams: Tailor campaigns based on consumer preferences and seasonal patterns.
-- Product Development Teams: Identify trends, optimize product offerings, and enhance portfolio based on sales data.
-- Customer Service Teams: Improve customer experience by optimizing delivery routes and addressing regional issues.
-- Stakeholders: Derive insights for optimizing menu offerings, adhering to franchise standards, and enhancing operational efficiency.
-- Pizza Restaurant Owners and Managers: Optimize sales, adjust menu offerings, and enhance overall operational efficiency.
-- Pizza Franchisees: Compare performance, identify improvement areas, and ensure alignment with the overall franchise system.
-- Pizza Delivery Companies: Improve customer satisfaction, streamline delivery processes, and efficiently handle large order volumes.
-- Pizza Ingredient Suppliers: Monitor demand, spot industry trends, and maximize output and stock levels.
-- Investors: Evaluate the financial standing of pizza industry companies and make well-informed investment decisions.
+- **Marketing Teams:** Tailor campaigns based on consumer preferences and seasonal patterns.
+- **Product Development Teams:** Identify trends, optimize product offerings, and enhance portfolio based on sales data.
+- **Customer Service Teams:** Improve customer experience by optimizing delivery routes and addressing regional issues.
+- **Stakeholders:** Derive insights for optimizing menu offerings, adhering to franchise standards, and enhancing operational efficiency.
+- **Pizza Restaurant Owners and Managers:** Optimize sales, adjust menu offerings, and enhance overall operational efficiency.
+- **Pizza Franchisees:** Compare performance, identify improvement areas, and ensure alignment with the overall franchise system.
+- **Pizza Delivery Companies:** Improve customer satisfaction, streamline delivery processes, and efficiently handle large order volumes.
+- **Pizza Ingredient Suppliers:** Monitor demand, spot industry trends, and maximize output and stock levels.
+- **Investors:** Evaluate the financial standing of pizza industry companies and make well-informed investment decisions.
 
 ### Questions Addressed
 - What was the total revenue generated during the specified period?
