@@ -65,6 +65,8 @@ The dashboard caters to various stakeholders in the pizza industry, including ma
 - What is the weekly trend for the number of orders?
 - What percentage of sales is attributed to each pizza category?
 - How many orders and pizzas were sold by each pizza category?
+
   
-  Feel free to customize the README based on specific details or additional information related to your project
+  
+Feel free to customize the README based on specific details or additional information related to your project
 
